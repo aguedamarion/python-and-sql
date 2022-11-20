@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @aguedamarion
-- 👀 I’m interested in data science and analysis
-- 🌱 I’m currently learning about data science tools
-- 📫 How to reach me agueda.heberle@usp.br
+SSH Tips and Tricks
 
 <!---
 aguedamarion/aguedamarion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
