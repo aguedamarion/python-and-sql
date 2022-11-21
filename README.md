@@ -1,4 +1,4 @@
-SSH Tips and Tricks
+# Python codes from studies
 
 <!---
 aguedamarion/aguedamarion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
