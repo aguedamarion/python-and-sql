@@ -20,8 +20,9 @@
     * |---- Using Scrapy and XPath
     * |---- Persistency and Efficiency with Scraping
 
-* **Working with MySQL**
-    * |---- Using VSCode and MySQL
-    * |---- Running SQL Queries from VSCode
-    * |---- Importing and Exporting Data in MySQL
-    * |---- Loading and Exporting Data using MySQL
+* **Object Oriented Python**
+    * |---- Object Oriented Definitions and Terminology
+    * |---- Definitions
+    * |---- Terminology
+    * |---- Object lifecycle
+    * |---- Inheritance
